@@ -1,0 +1,13 @@
+C:\Users\Joy\Documents\Visual Studio 2012\Projects\HelloWorld_7\HelloWorld_7\Bin\Debug\ApplicationIcon.png
+C:\Users\Joy\Documents\Visual Studio 2012\Projects\HelloWorld_7\HelloWorld_7\Bin\Debug\Background.png
+C:\Users\Joy\Documents\Visual Studio 2012\Projects\HelloWorld_7\HelloWorld_7\Bin\Debug\HelloWorld_7.dll
+C:\Users\Joy\Documents\Visual Studio 2012\Projects\HelloWorld_7\HelloWorld_7\Bin\Debug\HelloWorld_7.pdb
+C:\Users\Joy\Documents\Visual Studio 2012\Projects\HelloWorld_7\HelloWorld_7\Bin\Debug\AppManifest.xaml
+C:\Users\Joy\Documents\Visual Studio 2012\Projects\HelloWorld_7\HelloWorld_7\Bin\Debug\HelloWorld_7.xap
+C:\Users\Joy\Documents\Visual Studio 2012\Projects\HelloWorld_7\HelloWorld_7\obj\Debug\HelloWorld_7.csprojResolveAssemblyReference.cache
+C:\Users\Joy\Documents\Visual Studio 2012\Projects\HelloWorld_7\HelloWorld_7\obj\Debug\App.g.cs
+C:\Users\Joy\Documents\Visual Studio 2012\Projects\HelloWorld_7\HelloWorld_7\obj\Debug\MainPage.g.cs
+C:\Users\Joy\Documents\Visual Studio 2012\Projects\HelloWorld_7\HelloWorld_7\obj\Debug\HelloWorld_7.g.resources
+C:\Users\Joy\Documents\Visual Studio 2012\Projects\HelloWorld_7\HelloWorld_7\obj\Debug\HelloWorld_7.dll
+C:\Users\Joy\Documents\Visual Studio 2012\Projects\HelloWorld_7\HelloWorld_7\obj\Debug\HelloWorld_7.pdb
+C:\Users\Joy\Documents\Visual Studio 2012\Projects\HelloWorld_7\HelloWorld_7\obj\Debug\XapCacheFile.xml
